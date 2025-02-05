@@ -2,10 +2,10 @@
 
 **A powerful tool for developers to simplify their workflow!**
 
-![GitHub license](https://img.shields.io/github/license/your-username/your-repo?color=blue)
-![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo?style=social)
-![GitHub issues](https://img.shields.io/github/issues/your-username/your-repo)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/your-repo)
+![GitHub license](https://img.shields.io/github/license/engkuskusnadi/webgallery-phpnative?color=blue)
+![GitHub stars](https://img.shields.io/github/stars/engkuskusnadi/webgallery-phpnative?style=social)
+![GitHub issues](https://img.shields.io/github/issues/engkuskusnadi/webgallery-phpnative)
+![GitHub last commit](https://img.shields.io/github/last-commit/engkuskusnadi/webgallery-phpnative)
 
 ---
 
@@ -24,7 +24,7 @@
 
 ## **About the Project** 🧐
 
-**Awesome Project Name** is a cutting-edge tool designed to help developers streamline their workflow. Whether you're building web applications, mobile apps, or backend services, this tool has got you covered!
+**Web gallery Foto** is a cutting-edge tool designed to help developers streamline their workflow. Whether you're building web applications, mobile apps, or backend services, this tool has got you covered!
 
 - **Why use this project?**  
   It simplifies complex tasks, saves time, and boosts productivity.
@@ -49,4 +49,4 @@ Get started in just a few steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/engkuskusnadi/webgallery-phpnative.git
